@@ -17,7 +17,7 @@
 - 🌱 Honestly, I’m currently learning **What I Need**.
   
   <a href="https://github.com/JafarMadadi" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/JafarMadadi?label=Github&style=flat"></a>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/madadi-jafar?label=Github&style=flat"></a>
 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
