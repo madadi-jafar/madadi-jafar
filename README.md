@@ -12,8 +12,8 @@
 
 - 🔭 These days I'm working on different kinds of projects!
 - 📙 I am Learning at **EDX.ORG!** and **UDEMY.COM!**.
-- 🎯 Goals: Become Expert in Laravel, ReactJS, NextJS, ExpressJS, TypeScript and AWS.
-- ⚡ Fun Fact: I want to learn everything especially AI Prompt Engineering 🤣
+- 🎯 Goal: Become a senior software engineer and AWS certified.
+- ⚡ Fun Fact: I want to learn everything, especially Web3 and Machine Learning.
 - 🌱 Honestly, I’m currently learning **What I Need**.
   
   <a href="https://github.com/JafarMadadi" target="_blank">
